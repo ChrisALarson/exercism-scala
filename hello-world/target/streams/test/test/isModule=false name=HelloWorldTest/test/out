@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mHelloWorldTest:[0m[0m
+[0m[[0minfo[0m] [0m[31m- Without name *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  <(), the Unit value> was not equal to "Hello, World!" (HelloWorldTest.scala:5)[0m[0m
+[0m[[0minfo[0m] [0m[33m- with name (pending)[0m[0m
+[0m[[0minfo[0m] [0m[33m- with umlaut name (pending)[0m[0m
